@@ -19,7 +19,7 @@ class CfgPatches {
         };
         author = "johnb43";
         authors[] = {"johnb43"};
-        url = "https://github.com/johnb432/Hide-Skins";
+        url = "https://github.com/johnb432/Hide-Skins-FK";
         VERSION_CONFIG;
     };
 };
